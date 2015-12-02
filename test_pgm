@@ -1,1 +1,9 @@
 C:\Users\gigi.k\Documents\Visual Studio 2012\Projects\ConsoleApplication3\ConsoleApplication3
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using System.Collections;
+using Nabler.Common.Database.MySql;
+using System.Data;
